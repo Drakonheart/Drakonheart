@@ -11,13 +11,14 @@
 <table>
   <tr>
     <td colspan="2" style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakonheart&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="height: 200px;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakonheart&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="height: 200px; width: 100%; max-width: 500px; object-fit: contain;"/>
     </td>
     <td style="text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drakonheart&theme=neon&hide_border=true" style="height: 200px;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drakonheart&theme=neon&hide_border=true" style="height: 200px; width: 100%; max-width: 500px; object-fit: contain;"/>
     </td>
   </tr>
 </table>
+
 
 
 
