@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drakonheart&theme=neon&hide_border=true" style="height: 200px; width: 100%; max-width: 500px; object-fit: contain;"/>
 </a>
 
 
