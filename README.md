@@ -18,7 +18,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakonheart&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></td>
     <td>
       <!-- Add your paragraph here -->
-      <p>
+      <p style="font-size: 5px;">
         This is a paragraph where you can write your program or description. You can provide additional information about your stats or projects, summarize contributions, or any other content that you find relevant.
       </p>
     </td>
