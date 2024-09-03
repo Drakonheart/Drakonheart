@@ -14,12 +14,17 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Drakonheart&theme=neon&hide_border=true" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakonheart&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></td>
+    <!-- Adjusted colspan to 1 and added a new cell for the paragraph -->
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakonheart&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></td>
+    <td>
+      <!-- Add your paragraph here -->
+      <p>
+        This is a paragraph where you can write your program or description. You can provide additional information about your stats or projects, summarize contributions, or any other content that you find relevant.
+      </p>
+    </td>
   </tr>
-  <p>
-  This is a paragraph where you can write your program or description. You can explain the significance of the above stats, give a summary of your contributions, or provide additional information about your projects or GitHub activity. You can format this text with HTML or Markdown to suit your preferences.
-</p>
 </table>
+
 
 
 
