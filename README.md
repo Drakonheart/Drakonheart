@@ -16,13 +16,16 @@
   <tr>
     <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakonheart&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-contributor-stats.vercel.app/api?username=Drakonheart&limit=5&theme=neon&combine_all_yearly_contributions=true" /></td>
+  </tr>
 </table>
 
 
 
 
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Drakonheart&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
 
