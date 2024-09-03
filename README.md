@@ -16,6 +16,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Drakonheart&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Drakonheart&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
